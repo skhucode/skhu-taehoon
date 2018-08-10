@@ -39,7 +39,7 @@
   <li>11726번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11726.java">2xn 타일링</a></li>
   <li>11727번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11727.java">2xn 타일링2</a></li>
   <li>9095번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_9095.java">1, 2, 3더하기</a></li>
-  <li>11052번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11052.java">붕어빵 판매하기</a></li>
+  <li>11052번 붕어빵 판매하기</li>
   <li>10844번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10844.java">쉬운 계단 수</a></li>
   <li>11057번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11057.java">오르막 수</a></li>
   <li>2193번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2193.java">이친수</a></li>
