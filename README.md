@@ -54,6 +54,6 @@
   <li>1699번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1699.java">제곱수의 합</a></li>
   <li>2133번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2133.java">타일 채우기</a></li>
   <li>9461번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_9461.java">파도반 수열</a></li>
-  <li>2225번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2225.java">합분해</a>/li>
+  <li>2225번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2225.java">합분해</a></li>
   <li>2011번 암호 코드</a></li>
 </ul>
