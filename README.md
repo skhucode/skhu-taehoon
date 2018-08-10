@@ -32,3 +32,19 @@
   <li>10824번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10824.java">네 수</a></li>
   <li>11656번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11656.java">접미사 배열</a></li>
 </ul>
+
+<h3>다이나믹 프로그래밍 1</h3>
+<ul>
+  <li>1463번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1463.java">1로 만들기</a></li>
+  <li>11726번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11726.java">2xn 타일링</a></li>
+  <li>11727번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11727.java">2xn 타일링2</a></li>
+  <li>9095번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_9095.java">1, 2, 3더하기</a></li>
+  <li>11052번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11052.java">붕어빵 판매하기</a></li>
+  <li>10844번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10844.java">쉬운 계단 수</a></li>
+  <li>11057번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11057.java">오르막 수</a></li>
+  <li>2193번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2193.java">이친수</a></li>
+  <li>9465번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_9465.java">스티커</a></li>
+  <li>2156번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2156.java">포도주 시식</a></li>
+  <li>11053번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11053.java">가장 긴 증가하는 부분 수열</a></li>
+  <li>11055번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11055.java">가장 큰 증가 부분 수열</a></li>
+</ul>
