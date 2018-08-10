@@ -4,31 +4,26 @@ import java.io.InputStreamReader;
 
 public class Code_11057
 {
-    static int division = 10007;
-    static long[][] temp;
-
-    public static long search(int number, int cipher)
-    {
-        if (number == 1) return 1;
-        if (temp[number][cipher] > 0) return temp[number][cipher]; //memoization
-
-        if (cipher == 0)
-            temp[number][cipher] = search(number-1,0) % division;
-        else if (cipher == 9)
-            temp[number][cipher] = search(number-1,8) % division;
-        else
-            temp[number][cipher] = search(number-1,cipher-1)% division + search(number-1,cipher+1) % division;
-        return temp[number][cipher] % division;
-    }
-
+    static int count;
     public static void main(String[] args) throws IOException
     {
         BufferedReader buffer = new BufferedReader(new InputStreamReader(System.in));
         int number = Integer.parseInt(buffer.readLine());
+        long[][] array = new long[number][10];
 
-        long result = 0;
-        for (int i=0; i<=9; ++i)
-            result += search(number,i);
-        System.out.println(result % division);
+        for (int i=0; i<10; ++i)
+            array[0][i] = 1;
+
+        for (int i=1; i<number; ++i)
+            for (int j=0; j<10; ++j)
+                for (int k=0; k<=j; ++k)
+                {
+                    array[i][j] += array[i-1][k];
+                    array[i][j] %= 10007;
+                }
+
+        for (int i=0; i<10; ++i)
+            count += array[number-1][i];
+        System.out.println(count%10007);
     }
 }
