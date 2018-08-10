@@ -47,4 +47,13 @@
   <li>2156번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2156.java">포도주 시식</a></li>
   <li>11053번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11053.java">가장 긴 증가하는 부분 수열</a></li>
   <li>11055번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11055.java">가장 큰 증가 부분 수열</a></li>
+  <li>11722번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11722.java">가장 긴 감소하는 부분 수열</a></li>
+  <li>11054번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_11054.java">가장 긴 바이토닉 부분 수열</a></li>
+  <li>1912번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1912.java">연속합</a></li>
+  <li>2579번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2579.java">계단 오르기</a></li>
+  <li>1699번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1699.java">제곱수의 합/a></li>
+  <li>2133번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2133.java">타일 채우기</a></li>
+  <li>9461번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_9461.java">파도반 수열</a></li>
+  <li>2225번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2225.java">합분해</a>/li>
+  <li>2011번 암호 코드</a></li>
 </ul>
