@@ -2,7 +2,8 @@ public class Test
 {
     public static void main(String[] args)
     {
-        String temp = "12345";
-        System.out.println( ((int)temp.charAt(4)-48)*2 );
+        StringBuilder builder = new StringBuilder("0");
+        builder.insert(0,1);
+        System.out.println(builder);
     }
 }
