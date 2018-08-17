@@ -73,7 +73,7 @@
   <li>1978번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1978.java">소수 찾기</a></li>
   <li>1929번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1929.java">소수 구하기</a></li>
   <li>6588번 골드바흐의 추측</li>
-  <li>11653번  <a href="">소인수분해</a></li>
+  <li>11653번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_11653.java">소인수분해</a></li>
   <li>10872번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10872.java">팩토리얼</a></li>
   <li>1676번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1676.java">팩토리얼 0의 개수</a></li>
   <li>2004번 조합 0</li>
