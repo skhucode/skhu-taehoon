@@ -57,3 +57,24 @@
   <li>2225번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2225.java">합분해</a></li>
   <li>2011번 암호 코드</a></li>
 </ul>
+
+<h3>수학 1</h3>
+<ul>
+  <li>10430번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10430.java"></a></li>
+  <li>2609번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2609.java"></a></li>
+  <li>1934번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1934.java"></a></li>
+  <li>9613번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_9613.java"></a></li>
+  <li>11005번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_11005.java"></a></li>
+  <li>2745번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_2745.java"></a></li>
+  <li>1373번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1373.java"></a></li>
+  <li>1212번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1212.java"></a></li>
+  <li>-2진수  </li>
+  <li>Base Conversion  </li>
+  <li>1978번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1978.java"></a></li>
+  <li>1929번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1929.java"></a></li>
+  <li>6588번 골드바흐의 추측</li>
+  <li>11653번  <a href="">소인수분해</a></li>
+  <li>10872번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10872.java">팩토리얼</a></li>
+  <li>1676번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1676.java">팩토리얼 0의 개수</a></li>
+  <li>2004번 조합 0</li>
+</ul>
