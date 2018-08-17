@@ -60,18 +60,18 @@
 
 <h3>수학 1</h3>
 <ul>
-  <li>10430번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10430.java"></a></li>
-  <li>2609번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2609.java"></a></li>
-  <li>1934번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1934.java"></a></li>
-  <li>9613번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_9613.java"></a></li>
-  <li>11005번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_11005.java"></a></li>
-  <li>2745번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_2745.java"></a></li>
-  <li>1373번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1373.java"></a></li>
-  <li>1212번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1212.java"></a></li>
-  <li>-2진수  </li>
-  <li>Base Conversion  </li>
-  <li>1978번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1978.java"></a></li>
-  <li>1929번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1929.java"></a></li>
+  <li>10430번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10430.java">나머지</a></li>
+  <li>2609번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_2609.java">최대공약수와 최소공배수</a></li>
+  <li>1934번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1934.java">최소공배수</a></li>
+  <li>9613번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_9613.java">GCD 합</a></li>
+  <li>11005번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_11005.java">진법 변환 2</a></li>
+  <li>2745번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_2745.java">진법 변환</a></li>
+  <li>1373번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1373.java">2진수 8진수</a></li>
+  <li>1212번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1212.java">8진수 2진수</a></li>
+  <li>2089번 -2진수</li>
+  <li>11576번 Base Conversion</li>
+  <li>1978번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1978.java">소수 찾기</a></li>
+  <li>1929번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_1929.java">소수 구하기</a></li>
   <li>6588번 골드바흐의 추측</li>
   <li>11653번  <a href="">소인수분해</a></li>
   <li>10872번  <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/Code/Code_10872.java">팩토리얼</a></li>
