@@ -1,20 +1,19 @@
+import java.io.BufferedReader;
 import java.io.IOException;
-import java.util.Arrays;
+import java.io.InputStreamReader;
+import java.util.*;
 
 public class Test
 {
     public static void main(String[] args) throws IOException
     {
-        int[] aa = new int[6];
-        int[] bb = new int[6];
-
-        for (int i=1; i<=4; ++i)
-        {
-            aa[i] = 1;
-            bb[aa[i]]++;
-        }
-        System.out.println(Arrays.toString(aa));
-        System.out.println(Arrays.toString(bb));
+        BufferedReader buffer = new BufferedReader(new InputStreamReader(System.in));
+        String temp = buffer.readLine();
+        StringTokenizer token = new StringTokenizer(temp,"-");
+        List<String> list = new ArrayList<String>();
+        while (token.hasMoreTokens())
+            list.add(token.nextToken());
+        System.out.println(list);
     }
 }
 
