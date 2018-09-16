@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd0ced2-5716-4273-9302-30c1d9befc13" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Code_2875.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_1541.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code_1744.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Skhu/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Skhu/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code_2875.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code_2875.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +40,7 @@
       <file leaf-file-name="Code_11399.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Code_11399.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
+            <state relative-caret-position="437">
               <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,14 +49,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_2875.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Code_2875.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Code_2875.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_1541.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Code_1541.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_1744.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Code_1744.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -72,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Code_2133.java" />
         <option value="$PROJECT_DIR$/src/Code_9461.java" />
         <option value="$PROJECT_DIR$/src/Code_2225.java" />
         <option value="$PROJECT_DIR$/src/Code_2011.java" />
@@ -117,12 +153,13 @@
         <option value="$PROJECT_DIR$/src/Code_1427.java" />
         <option value="$PROJECT_DIR$/src/Code_1991.java" />
         <option value="$PROJECT_DIR$/src/Code_11725.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/Code_1541.java" />
         <option value="$PROJECT_DIR$/src/Code_11047.java" />
         <option value="$PROJECT_DIR$/src/Code_1931.java" />
         <option value="$PROJECT_DIR$/src/Code_11399.java" />
         <option value="$PROJECT_DIR$/src/Code_2875.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Code_1541.java" />
+        <option value="$PROJECT_DIR$/src/Code_1744.java" />
       </list>
     </option>
   </component>
@@ -136,10 +173,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="55" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -149,7 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -168,6 +204,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code_2875">
+  <component name="RunManager" selected="Application.Code_1744">
     <configuration name="최소힙" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="최소힙" />
       <module name="Skhu" />
@@ -208,6 +245,11 @@
       <module name="Skhu" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="Code_1744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code_1744" />
+      <module name="Skhu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="Code_1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code_1931" />
       <module name="Skhu" />
@@ -215,11 +257,6 @@
     </configuration>
     <configuration name="Code_2875" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code_2875" />
-      <module name="Skhu" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Skhu" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -270,19 +307,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Code_1541" />
       <item itemvalue="Application.Code_1931" />
       <item itemvalue="Application.Code_11399" />
       <item itemvalue="Application.Code_2875" />
+      <item itemvalue="Application.Code_1744" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code_1744" />
+        <item itemvalue="Application.Code_1541" />
         <item itemvalue="Application.Code_2875" />
         <item itemvalue="Application.Code_11399" />
         <item itemvalue="Application.Code_1931" />
-        <item itemvalue="Application.Code_1541" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -437,12 +474,15 @@
       <workItem from="1536834242347" duration="3131000" />
       <workItem from="1536898041659" duration="4882000" />
       <workItem from="1536907344954" duration="47000" />
-      <workItem from="1536973031452" duration="2138000" />
+      <workItem from="1536973031452" duration="2968000" />
+      <workItem from="1537060047341" duration="5144000" />
+      <workItem from="1537091699971" duration="23000" />
+      <workItem from="1537104691071" duration="2691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392474000" />
+    <option name="totallyTimeSpent" value="401162000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -454,24 +494,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="55" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4921875" weight="0.32279173" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4921875" weight="0.32239658" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.116145834" side_tool="true" weight="0.24255319" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.88385415" visible="true" weight="0.35986915" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.88385415" visible="true" weight="0.35948646" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978479" visible="true" weight="0.15991472" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978479" visible="true" weight="0.20872483" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="2" sideWeight="0.5021521" side_tool="true" weight="0.14179105" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -507,12 +547,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="288" />
+      <option name="time" value="289" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Code_2156.java" />
-    <entry file="file://$PROJECT_DIR$/src/Code_9465.java" />
     <entry file="file://$PROJECT_DIR$/src/Code_2193.java" />
     <entry file="file://$PROJECT_DIR$/src/Code_11057.java" />
     <entry file="file://$PROJECT_DIR$/src/Code_11052.java" />
@@ -573,14 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code_1541.java" />
     <entry file="file://$PROJECT_DIR$/src/Code_11047.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -601,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Code_11399.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
+        <state relative-caret-position="437">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -611,8 +641,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Code_2875.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1593" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code_1541.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Code_1744.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
