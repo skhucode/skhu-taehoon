@@ -95,4 +95,9 @@
 <h3>그리디 알고리즘</h3>
 <ul>
   <li>11047번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_11047.java">동전</a></li>
+  <li>1931번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1931.java">회의실배정</a></li>
+  <li>11399번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_11399.java">ATM</a></li>
+  <li>1541번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1541.java">잃어버린 괄호</a></li>
+  <li>1744번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_1744.java">수 묶기</a></li>
+  <li>2875번 <a href="https://github.com/skhucode/skhucode-taehoon/blob/master/src/Code_2875.java">대회 or 인턴</a></li>
 </ul>
